@@ -1,1 +1,1 @@
-That's me 🦖
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tischrei)](https://github.com/anuraghazra/github-readme-stats)
